@@ -949,6 +949,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   doctorRescued: {fileID: 11400000, guid: 7a4d718b3fe711444a673d00d1eb47f8, type: 2}
+  playerHp: {fileID: 11400000, guid: ec3b9a6cde22a044e9d21e0bfa4ab909, type: 2}
 --- !u!114 &1902040075
 MonoBehaviour:
   m_ObjectHideFlags: 0
